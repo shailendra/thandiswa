@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<main>
+
+	<img>
+		<thumb>assest/download/thumb-1.jpg</thumb>
+		<bigImg>assest/download/hi-res-1.zip</bigImg>
+	</img>
+	<img>
+		<thumb>assest/download/thumb-2.jpg</thumb>
+		<bigImg>assest/download/hi-res-2.zip</bigImg>
+	</img>
+	<img>
+		<thumb>assest/download/thumb-3.jpg</thumb>
+		<bigImg>assest/download/hi-res-3.zip</bigImg>
+	</img>
+	<img>
+		<thumb>assest/download/thumb-4.jpg</thumb>
+		<bigImg>assest/download/hi-res-4.zip</bigImg>
+	</img>
+</main>

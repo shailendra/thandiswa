@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<main>
+
+	<album>
+		<title><![CDATA[<span style="color:#8f1515;">I</span><span style="color:#bb487a;">BOKWE</span>]]></title>
+		<path>assest/music/ibokwe</path>
+		<info> Thandiswa's second album Released in 2009, went Gold in a few weeks of its release</info>
+		<songsInfo>
+			<song>
+				<name>Thonga Lam</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>Myn7FGRQl1Y</url>
+					<title>Thongo Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ibokwe</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>thongoLam.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				
+				<video>
+					<url>1MS1_nHAJSs</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ngimkhonzile</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma2.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ingoma</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>dddd</download>
+			</song>
+			<song>
+				<name>Izilo</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vana Vevhu</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Abenguni</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Chom Emdaka</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vakahin</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+		</songsInfo>
+	</album>	
+	
+	<album>
+		<title><![CDATA[<span style="color:#49861c;">Z</span><span style="color:#21367e;">AB</span><span style="color:#49861c;">ALAZA]]></title>
+		<path>assest/music/zabalaza</path>
+		<info>maybe remove the red car track 'chomemdaka' on the windscreen radio in taxi still playing song post crash saying 'icace gha' and 'ndoyisile mhlobam music section maybe getting a bit lost in the collage, find a way to make it obvious to user to click and listen to the track</info>
+		<songsInfo>
+			<song>
+				<name>Thonga Lam</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>Myn7FGRQl1Y</url>
+					<title>Thongo Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ibokwe</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>thongoLam.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				
+				<video>
+					<url>1MS1_nHAJSs</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ngimkhonzile</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma2.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ingoma</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>dddd</download>
+			</song>
+			<song>
+				<name>Izilo</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vana Vevhu</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Abenguni</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Chom Emdaka</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vakahin</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+		</songsInfo>
+	</album>	
+		
+	
+	<album>
+		<title><![CDATA[<span style="color:#8f1515;">I</span><span style="color:#bb487a;">BOKWE</span>]]></title>
+		<path>assest/music/ibokwe</path>
+		<info>maybe remove the red car track 'chomemdaka' on the windscreen radio in taxi still playing song post crash saying 'maybe remove the red car track 'chomemdaka' on the windscreen radio in taxi still playing song post crash saying 'icace gha' and 'ndoyisile mhlobam music section maybe getting a bit lost in the collage, find a way to make it obvious to user to click and listen to the track</info>
+		<songsInfo>
+			<song>
+				<name>Thonga Lam</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>Myn7FGRQl1Y</url>
+					<title>Thongo Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ibokwe</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>thongoLam.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				
+				<video>
+					<url>1MS1_nHAJSs</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ngimkhonzile</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma2.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ingoma</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>dddd</download>
+			</song>
+			<song>
+				<name>Izilo</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vana Vevhu</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Abenguni</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Chom Emdaka</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vakahin</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+		</songsInfo>
+	</album>	
+	
+	<album>
+		<title><![CDATA[<span style="color:#49861c;">Z</span><span style="color:#21367e;">AB</span><span style="color:#49861c;">ALAZA]]></title>
+		<path>assest/music/zabalaza</path>
+		<info>maybe remove the red car track 'chomemdaka' on the windscreen radio in taxi still playing song post crash saying 'icace gha' and 'ndoyisile mhlobam music section maybe getting a bit lost in the collage, find a way to make it obvious to user to click and listen to the track</info>
+		<songsInfo>
+			<song>
+				<name>Thonga Lam</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>Myn7FGRQl1Y</url>
+					<title>Thongo Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ibokwe</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>thongoLam.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				
+				<video>
+					<url>1MS1_nHAJSs</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ngimkhonzile</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics>
+					<url>ingoma2.html</url>
+					<title>Thongo Lam</title>
+				</lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>Ndinayo.mp3</download>
+			</song>
+			<song>
+				<name>Ingoma</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download>dddd</download>
+			</song>
+			<song>
+				<name>Izilo</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vana Vevhu</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Abenguni</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Chom Emdaka</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+			<song>
+				<name>Vakahin</name>
+				<audio>Myn7FGRQl1Y</audio>
+				<lyrics></lyrics>
+				<video>
+					<url>HACpBsSCMpg</url>
+					<title>Thonga Lam</title>
+				</video>
+				<download></download>
+			</song>
+		</songsInfo>
+	</album>	
+	
+</main>

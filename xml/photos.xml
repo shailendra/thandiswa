@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<main>
+	<album>
+		<title>YOUNGER DAYS!</title>
+		<folder>assest/photos/GrowingUp</folder>
+		<photos>
+			<photo>
+				<caption>Me age 10</caption>
+				<img>01.jpg</img>
+			</photo>
+			<photo>
+				<caption>School Girl!</caption>
+				<img>02.jpg</img>
+			</photo>
+			
+			<photo>
+				<caption>Carrying my younger sister Ntsiki</caption>
+				<img>03.jpg</img>
+			</photo>
+			<photo>
+				<caption>When I tagged along with my father to interview Mandela</caption>
+				<img>04.jpg</img>
+			</photo>
+			<photo>
+				<caption>3 sisters</caption>
+				<img>05.jpg</img>
+			</photo>
+			<photo>
+				<caption>Tata, Michael and Me</caption>
+				<img>06.jpg</img>
+			</photo>
+
+		</photos>
+	</album>
+	<album>
+		<title>ON STAGE AND ON FIRE!</title>
+		<folder>assest/photos/live</folder>
+		<photos>
+			<photo>
+				<caption>Opening of the FIFA 2010 World Cup</caption>
+				<img>live00.jpg</img>
+			</photo>
+			<photo>
+				<caption></caption>
+				<img>live01.jpg</img>
+			</photo>
+			
+			<photo>
+				<caption>Thandiswa and Masekela</caption>
+				<img>live02.jpg</img>
+			</photo>
+	        <photo>
+				<caption></caption>
+				<img>live03.jpg</img>
+			</photo>
+			<photo>
+				<caption></caption>
+				<img>live04.jpg</img>
+			</photo>
+			<photo>
+				<caption>Live at Zoo Lake by J Manning</caption>
+				<img>live05.jpg</img>
+			</photo>
+			<photo>
+				<caption>With my best friend Busi Mhlongo</caption>
+				<img>live06.jpg</img>
+			</photo>
+			
+         </photos>
+	</album>
+	<album>
+		<title>PHOTO SHOOTS</title>
+		<folder>assest/photos/photoshoots</folder>
+		<photos>
+			<photo>
+				<caption>Vogue Italia 2012</caption>
+				<img>shoot01.jpg</img>
+			</photo>
+			<photo>
+				<caption>Hanging in Harlem</caption>
+				<img>shoot02.jpg</img>
+			</photo>
+			
+			<photo>
+				<caption>Photo by Johannes</caption>
+				<img>shoot03.jpg</img>
+			</photo>
+			<photo>
+				<caption></caption>
+				<img>shoot04.jpg</img>
+			</photo>
+			<photo>
+				<caption></caption>
+				<img>shoot05.jpg</img>
+			</photo>
+			<photo>
+				<caption>Cosmopolitan 2009</caption>
+				<img>shoot06.jpg</img>
+			</photo>
+		</photos>
+	</album>
+	
+</main>

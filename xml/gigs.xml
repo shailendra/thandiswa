@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<main>
+
+	<gigs>
+		<date>28 November 2015</date>
+		<url>/</url>
+		<title><![CDATA[Mnguma Jazz Festival]]></title> 
+		<info><![CDATA[Butterworth E.C.]]></info>
+	</gigs>
+	
+	<gigs>
+		<date>05 December 2015</date>
+		<url>/</url>
+		<title><![CDATA[Fezile Dabi Festival]]></title> 
+		<info><![CDATA[Sasolberg]]></info>
+	</gigs>	
+
+	<gigs>
+		<date>12 December 2015</date>
+		<url>/</url>
+		<title><![CDATA[Reggae Fest, Carfax]]></title> 
+		<info><![CDATA[Johannesburg]]></info>
+	</gigs>	
+	<gigs>
+		<date>15 December 2015</date>
+		<url>/</url>
+		<title><![CDATA[Uppington Jazz Festival]]></title> 
+		<info><![CDATA[Uppington]]></info>
+	</gigs>	
+	<gigs>
+		<date>20 December 2015</date>
+		<url>/</url>
+		<title><![CDATA[Buyelekhaya Festival]]></title> 
+		<info><![CDATA[East London]]></info>
+	</gigs>	
+	<gigs>
+		<date>27 December 2015</date>
+		<url>/</url>
+		<title><![CDATA[Ebubeleni Jazz Festival]]></title> 
+		<info><![CDATA[Port Elizabeth]]></info>
+	</gigs>	
+</main>

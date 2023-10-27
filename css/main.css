@@ -1,0 +1,13 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.CusUnselectable {
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Safari, Chrome */
+    -khtml-user-select: none; /* Konqueror */
+    user-select: none; /* CSS3 */
+	-o-user-select: none;
+}
