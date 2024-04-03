@@ -27,6 +27,7 @@ function onLatestDocummentReady(){
 		numNewsLength = newsArray.length;
 		
 		function showNews(i){
+			console.log(i);
 			//alert(numNewsLength);
 			//alert($(newsArray[id]).find("text").text());
 			//alert($(newsArray[id]).find("date").text());

@@ -4,10 +4,193 @@ body {
 	margin-right: 0px;
 	margin-bottom: 0px;
 }
+
 .CusUnselectable {
-    -moz-user-select: none; /* Firefox */
-    -webkit-user-select: none; /* Safari, Chrome */
-    -khtml-user-select: none; /* Konqueror */
-    user-select: none; /* CSS3 */
+	-moz-user-select: none;
+	/* Firefox */
+	-webkit-user-select: none;
+	/* Safari, Chrome */
+	-khtml-user-select: none;
+	/* Konqueror */
+	user-select: none;
+	/* CSS3 */
 	-o-user-select: none;
+}
+
+.titleBanhartver {
+	font-family: 'Patua One';
+	color: #000000;
+	font-size: 45px;
+	letter-spacing: -10px
+}
+
+.HomeMenu {
+	font-family: "AWConquerorSlabLight";
+	color: #000000;
+	font-size: 16px;
+	text-decoration: underline;
+	line-height: 20px;
+	cursor: pointer;
+	width: 100px;
+	padding-left: 37px;
+	width: 135px;
+	margin-top: 7px;
+}
+
+.HomeMenu>div {}
+
+.bodyCopy {
+	font-family: 'Gudea', 'sans-serif';
+	color: #000000;
+	font-size: 15px;
+	line-height: 17px;
+	background-color: #FFF
+}
+
+
+#LatestDiv hr {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#LatestDiv a:link {
+	COLOR: #000000;
+	TEXT-DECORATION: none;
+}
+
+#LatestDiv a:hover {
+	COLOR: #000000;
+	TEXT-DECORATION: underline;
+}
+
+.latestNewDiv {
+	font-family: 'AWConquerorSlabLight';
+	color: #000000;
+	font-size: 15px;
+	line-height: 17px;
+}
+
+.bookingHeading {
+	color: #ff1406;
+	font-weight: bold;
+}
+
+#bookingHolder a:link {
+	COLOR: #000000;
+	TEXT-DECORATION: underline;
+}
+
+#bookingHolder a:hover {
+	COLOR: #000000;
+	TEXT-DECORATION: underline;
+}
+
+
+#GigsDiv a:link {
+	TEXT-DECORATION: underline;
+}
+
+#GigsDiv a:hover {
+	TEXT-DECORATION: underline;
+}
+
+#MusicDiv a:link {
+	COLOR: #000000;
+	TEXT-DECORATION: underline;
+}
+
+#MusicDiv a:hover {
+	COLOR: #000000;
+	TEXT-DECORATION: underline;
+}
+
+#downloadHolder a {
+	COLOR: #f0f906;
+	TEXT-DECORATION: underline;
+}
+
+#downloadHolder a:link {
+	COLOR: #f0f906;
+	TEXT-DECORATION: underline;
+}
+
+#downloadHolder a:hover {
+	COLOR: #f0f906;
+	TEXT-DECORATION: underline;
+}
+
+#downloadHolder a {
+	cursor: pointer;
+}
+
+
+#contactDownloadBtn a {
+	COLOR: #00;
+	TEXT-DECORATION: underline;
+}
+
+#contactDownloadBtn a:link {
+	COLOR: #00;
+	TEXT-DECORATION: underline;
+}
+
+#contactDownloadBtn a:hover {
+	COLOR: #00;
+	TEXT-DECORATION: underline;
+}
+
+#contactDownloadBtn a {
+	cursor: pointer;
+}
+
+.twitterClass {
+	font-family: AWConquerorSlabLight, Arial, Helvetica, sans-serif;
+}
+
+.twitterClass small,
+.twitterClass a {
+	color: #00b2e8;
+	font-family: AWConquerorSlabLight, Arial, Helvetica, sans-serif;
+}
+
+#socialDiv {
+	width: 450px;
+}
+
+#socialDiv .holder {}
+
+#socialDiv .holder a {
+	display: inline-block;
+	width: 20px;
+	border-radius: 4px;
+	overflow: hidden;
+}
+
+#socialDiv .holder a img {
+	width: 100%;
+	height: auto;
+}
+
+#socialDiv .antiHolder {}
+
+.song-holder{
+	margin-top: 10px;
+}
+.song-holder img {
+	width: 40px;
+	height: auto;
+}
+
+.song-holder a {
+	border-radius: 10px;
+	overflow: hidden;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+
+.WhiteBg {
+	background-color: white;
+	display: inline-block;
+	padding: 5px 5px;
 }

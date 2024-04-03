@@ -154,7 +154,7 @@ function OnDocummentReady(){
 	
 	setBookingAndContactBtn();
 	setDownload();
-	setSocialButtonFun();
+	//setSocialButtonFun();
 	//
 	//
 	
@@ -545,8 +545,8 @@ function InitializePieceImg(Obj){
 //
 function ControlHomeDivPosition(){
 	var HomeHeight = HomeDiv.height();
-	var Ypos = (WindowHeight/2)-HomeHeight/2;
-	var SocialY = (WindowHeight/2)+(HomeHeight/2)-100;
+	var Ypos = ((WindowHeight/2)-HomeHeight/2)-50;
+	var SocialY = (WindowHeight/2)+(HomeHeight/2)-50;
 	//alert(Ypos);
 	HomeDiv.css({'top':Ypos+'px'});
 	socialDiv.css({'top':SocialY+'px'});
