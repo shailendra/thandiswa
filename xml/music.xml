@@ -2,37 +2,37 @@
 <main>
 
 	<album>
-		<title><![CDATA[<span style="color:#219ad8;">BEL</span><span style="color:#f87e07;">EDE</span>]]></title>
-		<path>assest/music/dance</path>
+		<title><![CDATA[<span style="color:#219ad8;">San</span><span style="color:#f87e07;">kofa</span>]]></title>
+		<path>assest/music/sankofa</path>
 		<cover>cover.jpg</cover>
+		<link>https://thandiswamazwai.lnk.to/Sankofa</link>
 		<info><![CDATA[
 		
 		<div>
-			Thandiswa reinterprets South African Jazz Classics featuring songs originally sung by Letta Mbulu, Busi Mhlongo, Miriam Makeba, Dorothy Masuku, Hugh Masekela, and Caiphus Semenya. With Nduduzo Makhathini on piano, Herbie Tsoaeli on bass, and Ayanda Sikade on drums. Winner of the Afrima Award for Best Female Southern Africa in 2017 
-		</div>
-
-		<div class="song-holder">
-			<a href="https://music.apple.com/za/album/belede/1440881827" target="_blank">
-				<img src="images/apple-music-logo.jpg">
-			</a>
-			<a href="https://open.spotify.com/album/3yf3TXocm4XrWZgvA0Y82N" target="_blank">
-				<img src="images/spotify-logo.jpg">
-			</a>
-			<a href="https://tidal.com/browse/album/67061868" target="_blank">
-				<img src="images/tidal-logo.jpg">
-			</a>
-			<a href="https://music.youtube.com/playlist?list=OLAK5uy_k74ry3ag90Qq8X06XtFNHXZp2Via8pYxg" target="_blank">
-				<img src="images/youtube-music-logo.jpg">
-			</a>
+			Sankofa (2024) is Thandiswa’s fourth studio album. Sankofa is a Ghanian Twi word that means 'to go back and fetch what has been left behind'. The making of this work has embodied that idea. Recorded in Johannesburg, Dakar, and New York, the album combines archival Xhosa samples (which were sourced from the International Library of African Music at Rhodes University), jazz and west African music. It includes collaborations with Meshell Ndegeocello, Chris Bruce, Nduduzo Makhathini Thandi Ntuli, and Tendai Shoko 
 		</div>
 		
 		]]></info>
 		<songsInfo>
 			
-			
-			
-			
-			
+		</songsInfo>
+	</album>	
+
+
+
+	<album>
+		<title><![CDATA[<span style="color:#219ad8;">BEL</span><span style="color:#f87e07;">EDE</span>]]></title>
+		<path>assest/music/belede</path>
+		<cover>cover.jpg</cover>
+		<link>https://songwhip.com/thandiswa/belede</link>
+		<info><![CDATA[
+		
+		<div>
+			Thandiswa reinterprets South African Jazz Classics featuring songs originally sung by Letta Mbulu, Busi Mhlongo, Miriam Makeba, Dorothy Masuku, Hugh Masekela, and Caiphus Semenya. With Nduduzo Makhathini on piano, Herbie Tsoaeli on bass, and Ayanda Sikade on drums. Winner of the Afrima Award for Best Female Southern Africa in 2017 
+		</div>
+		
+		]]></info>
+		<songsInfo>
 			
 		</songsInfo>
 	</album>	
@@ -42,25 +42,11 @@
 		<title><![CDATA[<span style="color:#219ad8;">DANC</span><span style="color:#f87e07;">E OF THE FORG</span><span style="color:#219ad8;">OTTEN FREE</span>]]></title>
 		<path>assest/music/dance</path>
 		<cover>cover.jpg</cover>
+		<link>https://songwhip.com/thandiswa/dance-of-the-forgotten-free-live-in-concert</link>
 		<info><![CDATA[
 		
 		<div>
 			A live album and DVD. Winner of 2 Sama Awards: Best Female Artist and Best DVD. (2010, Gallo Records) 
-		</div>
-
-		<div class="song-holder">
-			<a href="https://music.apple.com/za/album/dance-of-the-forgotten-free-live-in-concert/987869060" target="_blank">
-				<img src="images/apple-music-logo.jpg">
-			</a>
-			<a href="https://open.spotify.com/album/570qaAhYoQFRU42d3rdkQB" target="_blank">
-				<img src="images/spotify-logo.jpg">
-			</a>
-			<a href="https://tidal.com/browse/album/224777337" target="_blank">
-				<img src="images/tidal-logo.jpg">
-			</a>
-			<a href="https://music.youtube.com/playlist?list=OLAK5uy_kNNuRRDyA1cjbCwxVFu2mSvoRIyg8B5lM" target="_blank">
-				<img src="images/youtube-music-logo.jpg">
-			</a>
 		</div>
 		
 		]]></info>
@@ -79,6 +65,7 @@
 		<title><![CDATA[<span style="color:#8f1515;">I</span><span style="color:#bb487a;">BOKWE</span>]]></title>
 		<path>assest/music/ibokwe</path>
 		<cover>cover.jpg</cover>
+		<link>https://songwhip.com/thandiswa/ibokwe</link>
 		<info><![CDATA[
 		
 		
@@ -86,20 +73,6 @@
 			Thandiswa's critically acclaimed second album, "Thandiswa forcefully cements her position at the forefront of a new generation extolling the Urban Zulu sound" Guardian. (2009, Gallo Records)
 		</div>
 
-		<div class="song-holder">
-			<a href="https://music.apple.com/za/album/ibokwe-deluxe-edition/1629277082" target="_blank">
-				<img src="images/apple-music-logo.jpg">
-			</a>
-			<a href="https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM" target="_blank">
-				<img src="images/spotify-logo.jpg">
-			</a>
-			<a href="https://tidal.com/browse/album/233366529" target="_blank">
-				<img src="images/tidal-logo.jpg">
-			</a>
-			<a href="https://music.youtube.com/playlist?list=OLAK5uy_k-TukN3pswJ3ksO_qAZyAUzoEZ5342bi4" target="_blank">
-				<img src="images/youtube-music-logo.jpg">
-			</a>
-		</div>
 		
 		
 		
@@ -114,6 +87,7 @@
 		<title><![CDATA[<span style="color:#49861c;">Z</span><span style="color:#21367e;">AB</span><span style="color:#49861c;">ALAZA]]></title>
 		<path>assest/music/zabalaza</path>
 		<cover>cover.jpg</cover>
+		<link>https://songwhip.com/thandiswa/zabalaza</link>
 		<info><![CDATA[
 		
 		
@@ -123,20 +97,6 @@
 			Thandiswa's debut award winning and multi-platinum selling album. Winner of 4 Sama Awards 2005, 2 Kora Awards, and a BBC world music award nomination. (2004, Gallo Records)
 		</div>
 
-		<div class="song-holder">
-			<a href="https://music.apple.com/za/album/zabalaza-limited-edition/1648823355" target="_blank">
-				<img src="images/apple-music-logo.jpg">
-			</a>
-			<a href="https://open.spotify.com/album/2sOg1u77s69EoZiKNxv2sI" target="_blank">
-				<img src="images/spotify-logo.jpg">
-			</a>
-			<a href="https://tidal.com/browse/album/34628361" target="_blank">
-				<img src="images/tidal-logo.jpg">
-			</a>
-			<a href="https://music.youtube.com/playlist?list=OLAK5uy_k74ry3ag90Qq8X06XtFNHXZp2Via8pYxg" target="_blank">
-				<img src="images/youtube-music-logo.jpg">
-			</a>
-		</div>
 
 
 		]]>

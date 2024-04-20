@@ -28,9 +28,16 @@ function onMusicDocummentReady(){
 			var songLength = songInfoArray.length;
 			var path = $(infoXml).children("path").text();
 			var cover = $(infoXml).children("cover").text();
+			var link = $(infoXml).children("link").text();
+			console.log('--------- link -----', link);
 			var info = $(infoXml).children("info").text();
-			var albumDiv =  $("#body").add("<div ></div>").appendTo(albumHolderDiv);
-			albumDiv.css({'border':'solid 1px red', 'position':'absolute', 'top':newAudioTop+'px'});
+			var albumDiv =  $("#body").add("<div></div>").appendTo(albumHolderDiv);
+			albumDiv.css({'border':'solid 1px red', 'position':'absolute', 'top':newAudioTop+'px', cursor:'pointer'});
+			if(link){
+				albumDiv.click(function(){
+					window.open(link, '_blank')
+				})
+			}
 			
 			var title = $(infoXml).children("title").text();
 			var titleDiv =  $("#body").add("<div >"+title+"</div>").appendTo(albumDiv);

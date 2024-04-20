@@ -2,41 +2,61 @@
 <main>
 
 	<gigs>
+		<date>11 May 2024</date>
+		<url>https://tickets.computicket.com/event/thandiswa___sankofa_live/7236417/7236426/3015</url>
+		<title><![CDATA[Carnival City, Johannesburg]]></title> 
+	</gigs>
+
+	<gigs>
+		<date>31 May 2024</date>
+		<url></url>
+		<title><![CDATA[Playhouse Theatre, Durban]]></title> 
+	</gigs>
+
+	<gigs>
+		<date>1 June 2024</date>
+		<url>https://www.bush-fire.com/</url>
+		<title><![CDATA[MTN Bushfire, Swaziland]]></title> 
+	</gigs>
+
+	<gigs>
+		<date>12 July 2024</date>
+		<url></url>
+		<title><![CDATA[Carnegie City Wide Festival]]></title> 
+		<info><![CDATA[Bryant Park, New York]]></info>
+	</gigs>
+
+	<gigs>
+		<date>13 July 2024</date>
+		<url></url>
+		<title><![CDATA[Cain Park Evans Amphitheater]]></title> 
+		<info><![CDATA[Cleveland]]></info>
+	</gigs>
+
+	<gigs>
+		<date>14 July 2024</date>
+		<url></url>
+		<title><![CDATA[African World Festival]]></title> 
+		<info><![CDATA[Detroit]]></info>
+	</gigs>
+
+	<gigs>
+		<date>20 July 2024</date>
+		<url>https://www.webtickets.co.za/v2/Event.aspx?itemid=1545649315</url>
+		<title><![CDATA[Artscape Theatre]]></title> 
+		<info><![CDATA[Cape Town]]></info>
+	</gigs>
+
+	<gigs>
+		<date>16 November 2024</date>
+		<url></url>
+		<title><![CDATA[Koerner Hall, Toronto]]></title> 
+	</gigs>
+
+	<!-- <gigs>
 		<date>28 November 2015</date>
 		<url>/</url>
 		<title><![CDATA[Mnguma Jazz Festival]]></title> 
 		<info><![CDATA[Butterworth E.C.]]></info>
-	</gigs>
-	
-	<gigs>
-		<date>05 December 2015</date>
-		<url>/</url>
-		<title><![CDATA[Fezile Dabi Festival]]></title> 
-		<info><![CDATA[Sasolberg]]></info>
-	</gigs>	
-
-	<gigs>
-		<date>12 December 2015</date>
-		<url>/</url>
-		<title><![CDATA[Reggae Fest, Carfax]]></title> 
-		<info><![CDATA[Johannesburg]]></info>
-	</gigs>	
-	<gigs>
-		<date>15 December 2015</date>
-		<url>/</url>
-		<title><![CDATA[Uppington Jazz Festival]]></title> 
-		<info><![CDATA[Uppington]]></info>
-	</gigs>	
-	<gigs>
-		<date>20 December 2015</date>
-		<url>/</url>
-		<title><![CDATA[Buyelekhaya Festival]]></title> 
-		<info><![CDATA[East London]]></info>
-	</gigs>	
-	<gigs>
-		<date>27 December 2015</date>
-		<url>/</url>
-		<title><![CDATA[Ebubeleni Jazz Festival]]></title> 
-		<info><![CDATA[Port Elizabeth]]></info>
-	</gigs>	
+	</gigs> -->
 </main>
