@@ -98,7 +98,10 @@ function onMusicDocummentReady(){
 		stopAudioOfMusicSection = function(){
 			$(".musicPlayBtn").css({'display':'inline'});
 			$(".musicPauseBtn").css({'display':'none'});
-			ytAudioPlayer.stopVideo();
+			if(ytAudioPlayer && ytAudioPlayer.stopVideo){
+				ytAudioPlayer.stopVideo();
+			}
+			
 		}
 		
 		
