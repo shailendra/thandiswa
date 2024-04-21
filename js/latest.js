@@ -18,6 +18,14 @@ function loadTweeter(count) {
   
 }
 function onLatestDocummentReady(){
+	var more = $($("#LatestDiv").find(".more"));
+	more.css({'cursor':'pointer'});
+	more.bind('click', onClickMore);
+	function onClickMore(){
+		window.open("https://twitter.com/thandiswamazwai");
+	}
+	
+	return;
 	var latestNewDiv = $(".latestNewDiv")
 	var latestNewHolder = $("#latestNewHolder")
 	
@@ -73,12 +81,7 @@ function onLatestDocummentReady(){
 	}
 	$.ajax({type: "GET", url: "xml/latest.xml", dataType: "xml", success:onXmlLoad});
 	
-	var more = $($("#LatestDiv").find(".more"));
-	more.css({'cursor':'pointer'});
-	more.bind('click', onClickMore);
-	function onClickMore(){
-		window.open("https://twitter.com/thandiswamazwai");
-	}
+	
 	
 	function showImgInPopup(imgUrl){
 		var inWidth = 300;
