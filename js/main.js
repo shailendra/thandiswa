@@ -181,7 +181,7 @@ function setSocialButtonFun(){
 						   })
 	
 	youtubeBtn.click(function (){
-						   window.open("http://www.youtube.com/user/thandiswa2","_blank")
+						   window.open("https://www.youtube.com/user/thandiswa2","_blank")
 						   })
 	
 	myspaceBtn.click(function (){

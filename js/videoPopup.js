@@ -25,7 +25,7 @@ function showVideoPopup(obj){
 	var WHObj=CalPer(OrgImgW, OrgImgH, TempMaxW, TempMaxH);
 	
 	//PopImgMaskDiv.css({overflow:'visible'});
-	var NewElementCode='<div class="PopImgLoaderTag" style="position:absolute; left:'+(-WHObj.width/2)+'px; top:'+(-WHObj.height/2+topWhiteExtra/2)+'px; height:'+WHObj.height+'px; width:'+WHObj.width+'px"><object style="position:absolute; height:'+WHObj.height+'px; width:'+WHObj.width+'px"><param name="movie"  value="http://www.youtube.com/v/'+YouTubeURL+'?version=3&feature=player_embedded"> <param name="allowFullScreen" value="true"> <param name="allowScriptAccess" value="always"> <embed src="http://www.youtube.com/v/'+YouTubeURL+'?version=3&feature=player_embedded" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="'+WHObj.width+'" height="'+WHObj.height+'"></object></div>';
+	var NewElementCode='<div class="PopImgLoaderTag" style="position:absolute; left:'+(-WHObj.width/2)+'px; top:'+(-WHObj.height/2+topWhiteExtra/2)+'px; height:'+WHObj.height+'px; width:'+WHObj.width+'px"><object style="position:absolute; height:'+WHObj.height+'px; width:'+WHObj.width+'px"><param name="movie"  value="https://www.youtube.com/v/'+YouTubeURL+'?version=3&feature=player_embedded"> <param name="allowFullScreen" value="true"> <param name="allowScriptAccess" value="always"> <embed src="https://www.youtube.com/v/'+YouTubeURL+'?version=3&feature=player_embedded" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="'+WHObj.width+'" height="'+WHObj.height+'"></object></div>';
 	//var PopImgLoaderTag=$("#body").add(NewElementCode);
 	
 	
