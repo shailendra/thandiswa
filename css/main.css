@@ -194,3 +194,9 @@ body {
 	display: inline-block;
 	padding: 5px 5px;
 }
+
+.downloadLinks{
+	display: block;
+	margin-top: 20px;
+	color:#f0f906; font-size:15px; font-weight:bold;
+}

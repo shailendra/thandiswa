@@ -1,12 +1,39 @@
 <?xml version="1.0"?>
 <main>
-<video>
+	<video>
 		<url>PZ1D-ndTxpE</url>
-		<title>Mazwai Nizalwa Ngobani LIVE</title>
-		<info>This performance is taken from Thandiswa's LIVE DVD recording titled "Dance of the FORGOTTEN FREE"</info>
+		<title>Tiny Desk Concert (2024)</title>
+	</video>
+	<video>
+		<url>vQVududX6oc</url>
+		<title>Kulungile (2024)</title>
+	</video>
+	<video>
+		<url>IfKSLfAC2cA</url>
+		<title>20 Years of Zabalaza (2024)</title>
+	</video>
+	<video>
+		<url>c74P23PgYm0</url>
+		<title>Ndilinde (2010)</title>
+	</video>
+	<video>
+		<url>-guHd9Zrbn4</url>
+		<title>TED (2012)</title>
+	</video>
+	<video>
+		<url>trgQLAFv64Q</url>
+		<title>Belede EPK (2016)</title>
+	</video>
+	<video>
+		<url>7VnPmnxvoQQ</url>
+		<title>Ndiyahamba (2019)</title>
+	</video>
+	<video>
+		<url>Z_GbrLnxIps</url>
+		<title>Ibokwe EPK (2009)</title>
 	</video>
 	
-	<video>
+	<!-- <video>
 		<url>8lb2E4fkmfU</url>
 		<title>My Face Goes Here</title>
 		<info>A short film about Thandiswa Mazwai by Aryan Kaganof</info>
@@ -74,6 +101,6 @@
 		<url>mhXoWvCT1Kc</url>
 		<title>Kura Uone</title>
 		<info>Bongo Maffin</info>
-	</video>
+	</video> -->
 	
 </main>
