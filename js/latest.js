@@ -77,7 +77,7 @@ function onLatestDocummentReady(){
 	more.css({'cursor':'pointer'});
 	more.bind('click', onClickMore);
 	function onClickMore(){
-		window.open("http://twitter.com/#!/thandiswamazwai");
+		window.open("https://twitter.com/thandiswamazwai");
 	}
 	
 	function showImgInPopup(imgUrl){
